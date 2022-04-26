@@ -1,4 +1,5 @@
 # chembl_lstm.py
+Note: Get the data for this project here: https://www.mediafire.com/file/xrrum0iv1wfwvel/chembl.csv.gz/file
 
 A script that uses LSTM (long short term memory) network to predict the AlogP value (a measure of hydrophobicity) of a chemical, given its SMILES-format formula. Uses a dataset obtained from ChEMBL (https://www.ebi.ac.uk/chembl/).
 
